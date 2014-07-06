@@ -35,7 +35,9 @@ import android.util.Log;
 import java.util.List;
 import java.util.UUID;
 
-/**
+/** 
+ * 
+ * aaaaaa
  * Service for managing connection and data communication with a GATT server hosted on a
  * given Bluetooth LE device.
  */
